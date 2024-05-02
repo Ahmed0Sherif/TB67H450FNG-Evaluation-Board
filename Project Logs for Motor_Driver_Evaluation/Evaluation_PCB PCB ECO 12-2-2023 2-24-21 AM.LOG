@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Out2 Pin=TB1-1
+Added Component: Designator=R1(5WATT_RESISTOR)
+Added Pin To Net: NetName=Out2 Pin=R1-1
+Added Pin To Net: NetName=Out2_R Pin=R1-2
+Added Pin To Net: NetName=Out2_R Pin=TB1-1
+Added Net: Name=Out2_R
+Added Member To Class: ClassName=Evaluation_Sheet Member=Component R1 _R

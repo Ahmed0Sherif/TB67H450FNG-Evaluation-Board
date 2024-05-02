@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+5 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=Var_Vref Pin=R1-3
+Removed Member From Class: ClassName=Evaluation_Sheet Member=R1
+Added Component: Designator=TR1(3296W_TRIMMER)
+Added Pin To Net: NetName=+5 Pin=TR1-1
+Added Pin To Net: NetName=GND Pin=TR1-2
+Added Pin To Net: NetName=Var_Vref Pin=TR1-3
+Added Member To Class: ClassName=Evaluation_Sheet Member=Component TR1 Trimmer_R
